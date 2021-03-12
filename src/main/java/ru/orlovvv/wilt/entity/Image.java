@@ -1,4 +1,4 @@
-package ru.orlovvv.entity;
+package ru.orlovvv.wilt.entity;
 
 import lombok.Data;
 import net.minidev.json.annotate.JsonIgnore;
