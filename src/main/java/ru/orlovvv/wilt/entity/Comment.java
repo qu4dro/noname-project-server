@@ -1,7 +1,6 @@
-package ru.orlovvv.entity;
+package ru.orlovvv.wilt.entity;
 
 import lombok.Data;
-import org.apache.tomcat.jni.Local;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
