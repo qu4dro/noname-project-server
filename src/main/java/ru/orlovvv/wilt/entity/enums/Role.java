@@ -1,4 +1,4 @@
-package ru.orlovvv.entity.enums;
+package ru.orlovvv.wilt.entity.enums;
 
 public enum Role {
     ROLE_ADMIN,
