@@ -9,5 +9,4 @@ public class WiltServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WiltServerApplication.class, args);
 	}
-
 }
